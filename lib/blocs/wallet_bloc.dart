@@ -21,11 +21,11 @@ import 'package:noso_dart/utils/data_parser.dart';
 import 'package:noso_dart/utils/noso_math.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
 import 'package:noso_rest_api/models/transaction.dart';
-import 'package:nososova/blocs/app_data_bloc.dart';
-import 'package:nososova/blocs/coininfo_bloc.dart';
-import 'package:nososova/models/responses/response_backup.dart';
-import 'package:nososova/models/responses/response_page_listener.dart';
-import 'package:nososova/repositories/repositories.dart';
+import 'package:sovawallet/blocs/app_data_bloc.dart';
+import 'package:sovawallet/blocs/coininfo_bloc.dart';
+import 'package:sovawallet/models/responses/response_backup.dart';
+import 'package:sovawallet/models/responses/response_page_listener.dart';
+import 'package:sovawallet/repositories/repositories.dart';
 
 import '../../models/address_wallet.dart';
 import '../configs/network_config.dart';
@@ -699,8 +699,8 @@ class WalletBloc extends Bloc<WalletEvent, WalletState> {
   }
 
   void _exportWalletFile(event, emit) async {
-    var nameWallet = FormatWalletFile.nososova == event.formatFile
-        ? "wallet.nososova"
+    var nameWallet = FormatWalletFile.sovawallet == event.formatFile
+        ? "wallet.sovawallet"
         : "wallet.pkw";
 
     if (Platform.isIOS || Platform.isAndroid) {

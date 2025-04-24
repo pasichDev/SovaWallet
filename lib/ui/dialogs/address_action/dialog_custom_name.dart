@@ -5,8 +5,8 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/const.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
-import 'package:nososova/blocs/wallet_bloc.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/blocs/wallet_bloc.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 import 'package:swipeable_button_view/swipeable_button_view.dart';
 
 import '../../../blocs/events/wallet_events.dart';

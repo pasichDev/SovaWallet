@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/models/noso/node.dart';
-import 'package:nososova/blocs/app_data_bloc.dart';
-import 'package:nososova/l10n/app_localizations.dart';
+import 'package:sovawallet/blocs/app_data_bloc.dart';
+import 'package:sovawallet/l10n/app_localizations.dart';
 
 import '../../blocs/events/app_data_events.dart';
 import '../../configs/network_config.dart';

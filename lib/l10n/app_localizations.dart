@@ -296,7 +296,7 @@ abstract class AppLocalizations {
   /// No description provided for @importFileSubtitle.
   ///
   /// In en, this message translates to:
-  /// **'Choose a wallet file in .pkw or .nososova'**
+  /// **'Choose a wallet file in .pkw or .sovawallet'**
   String get importFileSubtitle;
 
   /// No description provided for @exportFile.
@@ -308,7 +308,7 @@ abstract class AppLocalizations {
   /// No description provided for @exportFileSubtitle.
   ///
   /// In en, this message translates to:
-  /// **'Save the wallet file in .pkw or .nososova'**
+  /// **'Save the wallet file in .pkw or .sovawallet'**
   String get exportFileSubtitle;
 
   /// No description provided for @fileWallet.
@@ -1088,7 +1088,7 @@ abstract class AppLocalizations {
   /// No description provided for @gvtAbout.
   ///
   /// In en, this message translates to:
-  /// **'Noso\'s Governance Token (GVT) empowers holders to vote on project-related matters, enabling them to propose and participate in voting activities. One GVT equals one vote. In the future, individuals will be able to acquire GVT tokens through Noso/GVT trading within the NosoSova wallet.'**
+  /// **'Noso\'s Governance Token (GVT) empowers holders to vote on project-related matters, enabling them to propose and participate in voting activities. One GVT equals one vote. In the future, individuals will be able to acquire GVT tokens through Noso/GVT trading within the sovawallet wallet.'**
   String get gvtAbout;
 
   /// No description provided for @myListGvts.

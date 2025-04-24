@@ -1,5 +1,5 @@
 import 'package:noso_dart/models/noso/address_object.dart';
-import 'package:nososova/database/database.dart';
+import 'package:sovawallet/database/database.dart';
 
 import '../../models/address_wallet.dart';
 import '../models/contact.dart';

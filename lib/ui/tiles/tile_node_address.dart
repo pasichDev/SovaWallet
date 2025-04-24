@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/common/route/dialog_router.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
-import 'package:nososova/utils/other_utils.dart';
+import 'package:sovawallet/ui/common/route/dialog_router.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
+import 'package:sovawallet/utils/other_utils.dart';
 
 import '../../generated/assets.dart';
 import '../../l10n/app_localizations.dart';

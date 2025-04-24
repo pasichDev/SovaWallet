@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/common/route/dialog_router.dart';
+import 'package:sovawallet/ui/common/route/dialog_router.dart';
 
 import '../../../../l10n/app_localizations.dart';
 import '../../../common/widgets/custom/dialog_title_dropdown.dart';

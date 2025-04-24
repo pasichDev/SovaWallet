@@ -100,13 +100,13 @@ class AppLocalizationsZh extends AppLocalizations {
   String get importFile => '从文件中导入';
 
   @override
-  String get importFileSubtitle => '选择 .pkw 或 .nososova 格式的钱包文件';
+  String get importFileSubtitle => '选择 .pkw 或 .sovawallet 格式的钱包文件';
 
   @override
   String get exportFile => '导出到文件';
 
   @override
-  String get exportFileSubtitle => '将钱包文件保存为 .pkw 或 .nososova 格式';
+  String get exportFileSubtitle => '将钱包文件保存为 .pkw 或 .sovawallet 格式';
 
   @override
   String get fileWallet => '钱包文件';
@@ -496,7 +496,7 @@ class AppLocalizationsZh extends AppLocalizations {
   String get whatGvt => '什么是 GVT?';
 
   @override
-  String get gvtAbout => 'Noso 的治理代币（GVT）赋予持有者对项目相关事项进行投票的权力，使他们能够提议并参与投票活动。一个 GVT 相当于一票。今后，个人可以通过 NosoSova 钱包内的 Noso/GVT 交易获得 GVT 代币.';
+  String get gvtAbout => 'Noso 的治理代币（GVT）赋予持有者对项目相关事项进行投票的权力，使他们能够提议并参与投票活动。一个 GVT 相当于一票。今后，个人可以通过 sovawallet 钱包内的 Noso/GVT 交易获得 GVT 代币.';
 
   @override
   String get myListGvts => '我的GvT';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/pages/info/screen/widget_info_coin.dart';
+import 'package:sovawallet/ui/pages/info/screen/widget_info_coin.dart';
 
 import '../../theme/decoration/other_gradient_decoration.dart';
 

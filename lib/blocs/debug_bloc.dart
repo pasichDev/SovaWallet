@@ -1,5 +1,5 @@
 import 'package:bloc/bloc.dart';
-import 'package:nososova/blocs/events/debug_events.dart';
+import 'package:sovawallet/blocs/events/debug_events.dart';
 
 import '../models/app/debug.dart';
 

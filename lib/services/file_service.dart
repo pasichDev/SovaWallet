@@ -6,7 +6,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:flutter/foundation.dart';
 import 'package:noso_dart/handlers/files_handler.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
-import 'package:nososova/models/address_wallet.dart';
+import 'package:sovawallet/models/address_wallet.dart';
 import 'package:path_provider/path_provider.dart';
 
 import '../models/responses/response_backup.dart';

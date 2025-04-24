@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:noso_rest_api/models/transaction.dart';
-import 'package:nososova/ui/theme/style/icons_style.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/ui/theme/style/icons_style.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 
 import '../../generated/assets.dart';
 import '../../utils/other_utils.dart';

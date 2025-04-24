@@ -1,5 +1,5 @@
 import 'package:noso_dart/models/noso/seed.dart';
-import 'package:nososova/services/noso_network_service.dart';
+import 'package:sovawallet/services/noso_network_service.dart';
 
 import '../models/responses/response_node.dart';
 

@@ -5,7 +5,7 @@ import 'package:noso_rest_api/enum/time_range.dart';
 import 'package:noso_rest_api/models/nodes_info.dart';
 import 'package:noso_rest_api/models/price.dart';
 import 'package:noso_rest_api/models/set_price.dart';
-import 'package:nososova/blocs/app_data_bloc.dart';
+import 'package:sovawallet/blocs/app_data_bloc.dart';
 
 import '../dependency_injection.dart';
 import '../models/app/stats.dart';

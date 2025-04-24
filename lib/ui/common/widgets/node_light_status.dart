@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../../../models/address_wallet.dart';

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/app_data_bloc.dart';
-import 'package:nososova/configs/social_links.dart';
-import 'package:nososova/models/address_wallet.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
-import 'package:nososova/ui/tiles/tile_wallet_address.dart';
+import 'package:sovawallet/blocs/app_data_bloc.dart';
+import 'package:sovawallet/configs/social_links.dart';
+import 'package:sovawallet/models/address_wallet.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
+import 'package:sovawallet/ui/tiles/tile_wallet_address.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:wolt_modal_sheet/wolt_modal_sheet.dart';
 

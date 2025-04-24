@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
-import 'package:nososova/ui/theme/style/icons_style.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
+import 'package:sovawallet/ui/theme/style/icons_style.dart';
 
 import '../theme/style/text_style.dart';
 

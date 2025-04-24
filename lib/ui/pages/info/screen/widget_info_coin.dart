@@ -2,8 +2,8 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:nososova/blocs/coininfo_bloc.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/blocs/coininfo_bloc.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 
 import '../../../../blocs/events/coininfo_events.dart';
 import '../../../../l10n/app_localizations.dart';

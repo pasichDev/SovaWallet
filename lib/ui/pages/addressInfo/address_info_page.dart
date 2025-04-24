@@ -5,9 +5,9 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/const.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
-import 'package:nososova/ui/common/widgets/pending/pendings_widget.dart';
-import 'package:nososova/ui/pages/addressInfo/screens/address_actions.dart';
-import 'package:nososova/ui/pages/addressInfo/screens/history_transaction.dart';
+import 'package:sovawallet/ui/common/widgets/pending/pendings_widget.dart';
+import 'package:sovawallet/ui/pages/addressInfo/screens/address_actions.dart';
+import 'package:sovawallet/ui/pages/addressInfo/screens/history_transaction.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 
 import '../../../blocs/events/history_transactions_events.dart';

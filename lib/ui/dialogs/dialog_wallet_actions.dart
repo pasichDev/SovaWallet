@@ -3,11 +3,11 @@ import 'dart:io';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/wallet_bloc.dart';
-import 'package:nososova/generated/assets.dart';
-import 'package:nososova/l10n/app_localizations.dart';
-import 'package:nososova/ui/theme/style/icons_style.dart';
-import 'package:nososova/ui/tiles/dialog_tile.dart';
+import 'package:sovawallet/blocs/wallet_bloc.dart';
+import 'package:sovawallet/generated/assets.dart';
+import 'package:sovawallet/l10n/app_localizations.dart';
+import 'package:sovawallet/ui/theme/style/icons_style.dart';
+import 'package:sovawallet/ui/tiles/dialog_tile.dart';
 
 import '../../blocs/events/wallet_events.dart';
 import '../../models/address_wallet.dart';

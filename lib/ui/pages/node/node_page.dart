@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/pages/node/screens/body_stats_nodes.dart';
-import 'package:nososova/ui/pages/node/screens/list_nodes.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/ui/pages/node/screens/body_stats_nodes.dart';
+import 'package:sovawallet/ui/pages/node/screens/list_nodes.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../../theme/decoration/only_color_gradient_decoration.dart';

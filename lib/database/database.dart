@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:drift/drift.dart';
 import 'package:drift/native.dart';
 import 'package:noso_dart/models/noso/address_object.dart';
-import 'package:nososova/database/address.dart';
+import 'package:sovawallet/database/address.dart';
 import 'package:path/path.dart' as p;
 
 import '../../models/address_wallet.dart';

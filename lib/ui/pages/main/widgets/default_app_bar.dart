@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/dialogs/dialog_settings.dart';
+import 'package:sovawallet/ui/dialogs/dialog_settings.dart';
 
 import '../../../../generated/assets.dart';
 import '../../../common/route/dialog_router.dart';

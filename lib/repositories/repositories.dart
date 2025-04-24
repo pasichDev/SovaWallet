@@ -1,6 +1,6 @@
 import 'package:noso_rest_api/api_service.dart';
-import 'package:nososova/repositories/noso_network_repository.dart';
-import 'package:nososova/repositories/shared_repository.dart';
+import 'package:sovawallet/repositories/noso_network_repository.dart';
+import 'package:sovawallet/repositories/shared_repository.dart';
 
 import 'file_repository.dart';
 import 'local_repository.dart';

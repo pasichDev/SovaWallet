@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:noso_dart/models/noso/seed.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../../../utils/enum.dart';

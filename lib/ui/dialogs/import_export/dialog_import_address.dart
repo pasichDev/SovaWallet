@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/models/noso/address_object.dart';
-import 'package:nososova/l10n/app_localizations.dart';
-import 'package:nososova/ui/theme/style/button_style.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
-import 'package:nososova/utils/other_utils.dart';
+import 'package:sovawallet/l10n/app_localizations.dart';
+import 'package:sovawallet/ui/theme/style/button_style.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
+import 'package:sovawallet/utils/other_utils.dart';
 
 import '../../../blocs/events/wallet_events.dart';
 import '../../../blocs/wallet_bloc.dart';

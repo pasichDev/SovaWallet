@@ -18,7 +18,7 @@ enum ActionsFileWallet {
   addressAdded
 }
 
-enum FormatWalletFile { pkw, nososova }
+enum FormatWalletFile { pkw, sovawallet }
 
 enum AddressTileStyle { sDefault, sCustom }
 

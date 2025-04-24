@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/contacts_bloc.dart';
-import 'package:nososova/blocs/events/contacts_events.dart';
-import 'package:nososova/models/contact.dart';
-import 'package:nososova/ui/tiles/tile_contact.dart';
+import 'package:sovawallet/blocs/contacts_bloc.dart';
+import 'package:sovawallet/blocs/events/contacts_events.dart';
+import 'package:sovawallet/models/contact.dart';
+import 'package:sovawallet/ui/tiles/tile_contact.dart';
 
 import '../../l10n/app_localizations.dart';
 import '../common/widgets/empty_list_widget.dart';

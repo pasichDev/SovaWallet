@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/theme/style/sizes.dart';
+import 'package:sovawallet/ui/theme/style/sizes.dart';
 
 import '../../../../l10n/app_localizations.dart';
 import '../../../config/responsive.dart';

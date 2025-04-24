@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/common/widgets/item_info_widget.dart';
+import 'package:sovawallet/ui/common/widgets/item_info_widget.dart';
 
 import '../../../models/address_wallet.dart';
 

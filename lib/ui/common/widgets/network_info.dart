@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
-import 'package:nososova/blocs/app_data_bloc.dart';
-import 'package:nososova/ui/theme/style/icons_style.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
-import 'package:nososova/utils/enum.dart';
+import 'package:sovawallet/blocs/app_data_bloc.dart';
+import 'package:sovawallet/ui/theme/style/icons_style.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
+import 'package:sovawallet/utils/enum.dart';
 
 import '../../../configs/network_config.dart';
 

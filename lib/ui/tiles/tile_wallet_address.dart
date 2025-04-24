@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
-import 'package:nososova/ui/config/responsive.dart';
-import 'package:nososova/ui/theme/anim/blinkin_widget.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/ui/config/responsive.dart';
+import 'package:sovawallet/ui/theme/anim/blinkin_widget.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 
 import '../../generated/assets.dart';
 import '../../l10n/app_localizations.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/models/responses/response_page_listener.dart';
-import 'package:nososova/ui/common/responses_util/responses_messages.dart';
+import 'package:sovawallet/models/responses/response_page_listener.dart';
+import 'package:sovawallet/ui/common/responses_util/responses_messages.dart';
 
 import '../../config/responsive.dart';
 import '../../theme/style/colors.dart';

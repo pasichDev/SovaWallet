@@ -3,8 +3,8 @@ import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:noso_rest_api/api_service.dart';
 import 'package:noso_rest_api/enum/time_range.dart';
 import 'package:noso_rest_api/models/set_price.dart';
-import 'package:nososova/dependency_injection.dart';
-import 'package:nososova/ui/common/widgets/empty_list_widget.dart';
+import 'package:sovawallet/dependency_injection.dart';
+import 'package:sovawallet/ui/common/widgets/empty_list_widget.dart';
 
 import '../../../generated/assets.dart';
 import '../../../l10n/app_localizations.dart';

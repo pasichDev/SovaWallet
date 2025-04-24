@@ -3,8 +3,8 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/wallet_bloc.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/blocs/wallet_bloc.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
 
 import '../../../blocs/events/wallet_events.dart';

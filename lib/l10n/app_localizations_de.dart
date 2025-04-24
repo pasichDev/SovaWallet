@@ -100,13 +100,13 @@ class AppLocalizationsDe extends AppLocalizations {
   String get importFile => 'Aus Datei importieren';
 
   @override
-  String get importFileSubtitle => 'Wahlweise eine .pkw oder .nososova Datei';
+  String get importFileSubtitle => 'Wahlweise eine .pkw oder .sovawallet Datei';
 
   @override
   String get exportFile => 'Als Datei exportieren';
 
   @override
-  String get exportFileSubtitle => 'Speichere die Wallet als .pkw oder .nososova Datei';
+  String get exportFileSubtitle => 'Speichere die Wallet als .pkw oder .sovawallet Datei';
 
   @override
   String get fileWallet => 'Wallet-Datei';
@@ -496,7 +496,7 @@ class AppLocalizationsDe extends AppLocalizations {
   String get whatGvt => 'Was ist GVT?';
 
   @override
-  String get gvtAbout => 'Der Governance-Token (GVT) von Noso ermöglicht es den Inhabern, über projektbezogene Angelegenheiten abzustimmen und sich an Abstimmungen zu beteiligen. Ein GVT entspricht einer Stimme. In der Zukunft werden Einzelpersonen GVT-Token durch den Handel von Noso/GVT innerhalb der NosoSova-Wallet erwerben können.';
+  String get gvtAbout => 'Der Governance-Token (GVT) von Noso ermöglicht es den Inhabern, über projektbezogene Angelegenheiten abzustimmen und sich an Abstimmungen zu beteiligen. Ein GVT entspricht einer Stimme. In der Zukunft werden Einzelpersonen GVT-Token durch den Handel von Noso/GVT innerhalb der sovawallet-Wallet erwerben können.';
 
   @override
   String get myListGvts => 'Meine GvTs';

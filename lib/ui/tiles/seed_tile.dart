@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:noso_dart/models/noso/seed.dart';
-import 'package:nososova/ui/theme/style/icons_style.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/ui/theme/style/icons_style.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 
 import '../../configs/network_config.dart';
 import '../../utils/enum.dart';

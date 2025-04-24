@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
-import 'package:nososova/blocs/coininfo_bloc.dart';
+import 'package:sovawallet/blocs/coininfo_bloc.dart';
 
 import '../../../../l10n/app_localizations.dart';
 import '../../../../utils/enum.dart';

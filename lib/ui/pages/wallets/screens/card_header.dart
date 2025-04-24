@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/const.dart';
-import 'package:nososova/ui/common/route/dialog_router.dart';
-import 'package:nososova/ui/pages/wallets/widgets/pendigs_card.dart';
+import 'package:sovawallet/ui/common/route/dialog_router.dart';
+import 'package:sovawallet/ui/pages/wallets/widgets/pendigs_card.dart';
 
 import '../../../../blocs/wallet_bloc.dart';
 import '../../../../generated/assets.dart';

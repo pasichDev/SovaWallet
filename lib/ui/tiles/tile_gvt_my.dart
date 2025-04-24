@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:noso_dart/models/noso/gvt.dart';
-import 'package:nososova/ui/theme/style/text_style.dart';
+import 'package:sovawallet/ui/theme/style/text_style.dart';
 
 import '../../generated/assets.dart';
 import '../theme/style/icons_style.dart';

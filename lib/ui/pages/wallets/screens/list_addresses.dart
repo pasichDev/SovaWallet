@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/wallet_bloc.dart';
+import 'package:sovawallet/blocs/wallet_bloc.dart';
 
 import '../../../../dependency_injection.dart';
 import '../../../../l10n/app_localizations.dart';

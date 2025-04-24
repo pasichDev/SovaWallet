@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/l10n/app_localizations.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/l10n/app_localizations.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 
 typedef OnCancelButtonPressedSend = void Function();
 typedef OnSendButtonPressed = void Function();

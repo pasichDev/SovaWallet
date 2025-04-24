@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/debug_bloc.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/blocs/debug_bloc.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 
 import '../../models/app/debug.dart';
 import '../theme/style/text_style.dart';

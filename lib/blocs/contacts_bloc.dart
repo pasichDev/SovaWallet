@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
-import 'package:nososova/blocs/events/contacts_events.dart';
-import 'package:nososova/models/contact.dart';
-import 'package:nososova/repositories/repositories.dart';
+import 'package:sovawallet/blocs/events/contacts_events.dart';
+import 'package:sovawallet/models/contact.dart';
+import 'package:sovawallet/repositories/repositories.dart';
 
 import '../utils/enum.dart';
 

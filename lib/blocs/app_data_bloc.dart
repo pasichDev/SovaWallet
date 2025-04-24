@@ -7,11 +7,11 @@ import 'package:noso_dart/models/noso/seed.dart';
 import 'package:noso_dart/node_request.dart';
 import 'package:noso_dart/utils/data_parser.dart';
 import 'package:noso_rest_api/models/nodes_info.dart';
-import 'package:nososova/blocs/coininfo_bloc.dart';
-import 'package:nososova/blocs/debug_bloc.dart';
-import 'package:nososova/blocs/events/coininfo_events.dart';
-import 'package:nososova/blocs/events/wallet_events.dart';
-import 'package:nososova/models/app/app_bloc_config.dart';
+import 'package:sovawallet/blocs/coininfo_bloc.dart';
+import 'package:sovawallet/blocs/debug_bloc.dart';
+import 'package:sovawallet/blocs/events/coininfo_events.dart';
+import 'package:sovawallet/blocs/events/wallet_events.dart';
+import 'package:sovawallet/models/app/app_bloc_config.dart';
 
 import '../configs/network_config.dart';
 import '../models/app/debug.dart';

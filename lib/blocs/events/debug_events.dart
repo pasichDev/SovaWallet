@@ -1,4 +1,4 @@
-import 'package:nososova/models/app/debug.dart';
+import 'package:sovawallet/models/app/debug.dart';
 
 abstract class DebugEvent {}
 

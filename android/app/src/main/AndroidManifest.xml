@@ -29,11 +29,11 @@
     </queries>
 
     <application
-        android:label="NosoSova"
+        android:label="sovawallet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name=".nososova.MainActivity"
+            android:name=".sovawallet.MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"

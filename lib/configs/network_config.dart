@@ -25,7 +25,7 @@ final class NetworkConfig {
   static const int durationTimeOut = 3;
   static const int delaySync = 30;
 
-  get getAppInfo => AppInfo(appVersion: "NOSOSOVA_$_appVersion");
+  get getAppInfo => AppInfo(appVersion: "sovawallet_$_appVersion");
 
   NetworkConfig() {
     _load();

@@ -5,11 +5,11 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
 import 'package:noso_rest_api/models/transaction.dart';
-import 'package:nososova/ui/common/route/dialog_router.dart';
-import 'package:nososova/ui/theme/decoration/textfield_decoration.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
-import 'package:nososova/ui/tiles/tile_wallet_address.dart';
-import 'package:nososova/utils/enum.dart';
+import 'package:sovawallet/ui/common/route/dialog_router.dart';
+import 'package:sovawallet/ui/theme/decoration/textfield_decoration.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
+import 'package:sovawallet/ui/tiles/tile_wallet_address.dart';
+import 'package:sovawallet/utils/enum.dart';
 import 'package:swipeable_button_view/swipeable_button_view.dart';
 
 import '../../../../blocs/events/wallet_events.dart';

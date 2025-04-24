@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_rest_api/models/transaction.dart';
-import 'package:nososova/blocs/contacts_bloc.dart';
-import 'package:nososova/blocs/debug_bloc.dart';
-import 'package:nososova/blocs/gvt_bloc.dart';
-import 'package:nososova/ui/pages/gvt/gvt_page.dart';
+import 'package:sovawallet/blocs/contacts_bloc.dart';
+import 'package:sovawallet/blocs/debug_bloc.dart';
+import 'package:sovawallet/blocs/gvt_bloc.dart';
+import 'package:sovawallet/ui/pages/gvt/gvt_page.dart';
 import 'package:wolt_modal_sheet/wolt_modal_sheet.dart';
 
 import '../../../blocs/app_data_bloc.dart';

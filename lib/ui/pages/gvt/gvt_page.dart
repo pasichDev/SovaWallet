@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/models/noso/gvt.dart';
-import 'package:nososova/blocs/gvt_bloc.dart';
-import 'package:nososova/ui/common/widgets/empty_list_widget.dart';
-import 'package:nososova/ui/common/widgets/loading.dart';
-import 'package:nososova/ui/pages/gvt/screen/gvt_widget.dart';
-import 'package:nososova/utils/enum.dart';
+import 'package:sovawallet/blocs/gvt_bloc.dart';
+import 'package:sovawallet/ui/common/widgets/empty_list_widget.dart';
+import 'package:sovawallet/ui/common/widgets/loading.dart';
+import 'package:sovawallet/ui/pages/gvt/screen/gvt_widget.dart';
+import 'package:sovawallet/utils/enum.dart';
 
 import '../../../l10n/app_localizations.dart';
 import '../../../models/app/gvt_owner.dart';

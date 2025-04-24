@@ -3,17 +3,17 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nososova/blocs/app_data_bloc.dart';
-import 'package:nososova/blocs/coininfo_bloc.dart';
-import 'package:nososova/blocs/debug_bloc.dart';
-import 'package:nososova/blocs/events/coininfo_events.dart';
-import 'package:nososova/blocs/wallet_bloc.dart';
-import 'package:nososova/dependency_injection.dart';
-import 'package:nososova/l10n/app_localizations.dart';
-import 'package:nososova/path_app.dart';
-import 'package:nososova/ui/notifer/app_settings_notifer.dart';
-import 'package:nososova/ui/pages/main/main_page.dart';
-import 'package:nososova/ui/theme/color_schemes.g.dart';
+import 'package:sovawallet/blocs/app_data_bloc.dart';
+import 'package:sovawallet/blocs/coininfo_bloc.dart';
+import 'package:sovawallet/blocs/debug_bloc.dart';
+import 'package:sovawallet/blocs/events/coininfo_events.dart';
+import 'package:sovawallet/blocs/wallet_bloc.dart';
+import 'package:sovawallet/dependency_injection.dart';
+import 'package:sovawallet/l10n/app_localizations.dart';
+import 'package:sovawallet/path_app.dart';
+import 'package:sovawallet/ui/notifer/app_settings_notifer.dart';
+import 'package:sovawallet/ui/pages/main/main_page.dart';
+import 'package:sovawallet/ui/theme/color_schemes.g.dart';
 import 'package:window_manager/window_manager.dart';
 
 import 'blocs/events/app_data_events.dart';
@@ -35,15 +35,15 @@ Future<void> main() async {
       await windowManager.focus();
     });
   }
-  runApp(NosoSova());
+  runApp(SovaWallet());
 }
 
 class NavigationService {
   static GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 }
 
-class NosoSova extends StatelessWidget {
-  NosoSova({super.key});
+class SovaWallet extends StatelessWidget {
+  SovaWallet({super.key});
 
   final AppSettings _appSettings = locator<AppSettings>();
 

@@ -1,12 +1,12 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/pages/info/info_page.dart';
-import 'package:nososova/ui/pages/main/widgets/default_app_bar.dart';
-import 'package:nososova/ui/pages/node/node_page.dart';
-import 'package:nososova/ui/pages/wallets/wallets_page.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
-import 'package:nososova/ui/theme/style/icons_style.dart';
+import 'package:sovawallet/ui/pages/info/info_page.dart';
+import 'package:sovawallet/ui/pages/main/widgets/default_app_bar.dart';
+import 'package:sovawallet/ui/pages/node/node_page.dart';
+import 'package:sovawallet/ui/pages/wallets/wallets_page.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
+import 'package:sovawallet/ui/theme/style/icons_style.dart';
 
 import '../../../generated/assets.dart';
 import '../../config/responsive.dart';

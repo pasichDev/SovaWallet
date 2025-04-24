@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:noso_rest_api/models/transaction.dart';
-import 'package:nososova/ui/pages/transaction/screen/widget_transaction.dart';
+import 'package:sovawallet/ui/pages/transaction/screen/widget_transaction.dart';
 import 'package:wolt_modal_sheet/wolt_modal_sheet.dart';
 
 import '../../../l10n/app_localizations.dart';

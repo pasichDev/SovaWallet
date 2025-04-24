@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
 import 'package:noso_rest_api/models/transaction.dart';
-import 'package:nososova/blocs/history_transactions_bloc.dart';
+import 'package:sovawallet/blocs/history_transactions_bloc.dart';
 
 import '../../../../l10n/app_localizations.dart';
 import '../../../../models/address_wallet.dart';

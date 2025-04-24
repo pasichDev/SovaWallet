@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:noso_dart/utils/noso_utility.dart';
-import 'package:nososova/blocs/contacts_bloc.dart';
-import 'package:nososova/blocs/events/contacts_events.dart';
-import 'package:nososova/models/address_wallet.dart';
-import 'package:nososova/ui/config/responsive.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/blocs/contacts_bloc.dart';
+import 'package:sovawallet/blocs/events/contacts_events.dart';
+import 'package:sovawallet/models/address_wallet.dart';
+import 'package:sovawallet/ui/config/responsive.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 
 import '../../../../l10n/app_localizations.dart';
 import '../../../../models/contact.dart';

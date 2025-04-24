@@ -1,4 +1,4 @@
-package com.pasivhdev.nososova.nososova
+package com.pasivhdev.sovawallet.sovawallet
 
 import io.flutter.embedding.android.FlutterActivity
 

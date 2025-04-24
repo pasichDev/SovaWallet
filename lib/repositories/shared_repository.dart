@@ -1,4 +1,4 @@
-import 'package:nososova/services/shared_service.dart';
+import 'package:sovawallet/services/shared_service.dart';
 
 class SharedRepository {
   final SharedService _sharedService;

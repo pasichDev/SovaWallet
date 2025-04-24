@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/theme/anim/blinkin_widget.dart';
-import 'package:nososova/ui/theme/style/colors.dart';
+import 'package:sovawallet/ui/theme/anim/blinkin_widget.dart';
+import 'package:sovawallet/ui/theme/style/colors.dart';
 
 import '../../../../l10n/app_localizations.dart';
 import '../../../../models/address_wallet.dart';

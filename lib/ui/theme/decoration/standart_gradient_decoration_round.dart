@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nososova/ui/theme/decoration/standart_gradient_decoration.dart';
+import 'package:sovawallet/ui/theme/decoration/standart_gradient_decoration.dart';
 
 class HomeGradientDecorationRound extends HomeGradientDecoration {
   const HomeGradientDecorationRound()

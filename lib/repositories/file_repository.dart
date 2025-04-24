@@ -1,8 +1,8 @@
 import 'dart:typed_data';
 
 import 'package:file_picker/file_picker.dart';
-import 'package:nososova/models/address_wallet.dart';
-import 'package:nososova/services/file_service.dart';
+import 'package:sovawallet/models/address_wallet.dart';
+import 'package:sovawallet/services/file_service.dart';
 
 import '../models/responses/response_backup.dart';
 

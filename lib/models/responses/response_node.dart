@@ -1,6 +1,6 @@
 
 import 'package:noso_dart/models/noso/seed.dart';
-import 'package:nososova/models/responses/response.dart';
+import 'package:sovawallet/models/responses/response.dart';
 
 class ResponseNode<T> extends Response<T> {
   Seed seed;

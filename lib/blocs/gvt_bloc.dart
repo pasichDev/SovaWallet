@@ -2,9 +2,9 @@ import 'package:bloc/bloc.dart';
 import 'package:noso_dart/models/noso/gvt.dart';
 import 'package:noso_dart/node_request.dart';
 import 'package:noso_dart/utils/data_parser.dart';
-import 'package:nososova/blocs/events/gvt_events.dart';
-import 'package:nososova/blocs/wallet_bloc.dart';
-import 'package:nososova/repositories/repositories.dart';
+import 'package:sovawallet/blocs/events/gvt_events.dart';
+import 'package:sovawallet/blocs/wallet_bloc.dart';
+import 'package:sovawallet/repositories/repositories.dart';
 
 import '../models/address_wallet.dart';
 import '../models/responses/response_node.dart';

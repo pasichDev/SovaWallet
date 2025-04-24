@@ -1,4 +1,4 @@
-import 'package:nososova/models/contact.dart';
+import 'package:sovawallet/models/contact.dart';
 
 abstract class ContactsEvents {}
 
